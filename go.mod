@@ -1,3 +1,3 @@
-module github.com/newrelic/newrelic-telemetry-sdk-go
+module github.com/nrcventura/newrelic-telemetry-sdk-go
 
 go 1.13
